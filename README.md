@@ -1,4 +1,4 @@
-# Algoritmos_Pathfind
+# Pathfind_Algorithm
 Comparison of pathfind algorithms
 
 
